@@ -1,0 +1,7 @@
+Taylor: Quick update everyone, the landing page redesign is ready for review.
+Morgan: Looks clean! But we need to fix the mobile layout before we push live.
+Taylor: Good catch. Morgan, can you update the CSS grid for mobile screens by 6 PM tonight?
+Morgan: Yes, I'll take care of that. 
+Casey: What about the copy for the hero section? 
+Taylor: Casey, can you rewrite the headline to focus more on privacy features? We need that finalized by tomorrow morning at 9 AM.
+Casey: Will do. I'll drop the options in this channel shortly.

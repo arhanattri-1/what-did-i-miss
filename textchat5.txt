@@ -1,0 +1,6 @@
+Alex: Okay, venue is booked for the end-of-month hackathon wrap-up party!
+Taylor: Awesome! Are we sorting out food catering too?
+Alex: Yes, but we need a headcount. Jordan, can you send out the RSVP form to everyone by Wednesday?
+Jordan: Yep, I'll shoot it out via email in an hour.
+Taylor: Make sure to ask about dietary restrictions. I'll handle booking the catering service once we have the numbers.
+Alex: Perfect. Let's aim to finalize the food vendor order by Friday noon.

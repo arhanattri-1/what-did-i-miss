@@ -1,0 +1,7 @@
+Morgan: Whoa, did anyone see the error logs from production this morning?
+Casey: Yeah, the user authentication endpoint threw a 500 error for a few accounts.
+Morgan: Looks like a token expiration bug. Jordan, can you look into the auth middleware?
+Jordan: Looking at it now. It's an issue with the JWT refresh logic.
+Morgan: Can you patch it and deploy the fix to staging by 4 PM today?
+Jordan: Should be quick, I'll have it tested and deployed by then.
+Casey: I'll run a full regression test on staging right after you deploy it.

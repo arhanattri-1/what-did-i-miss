@@ -1,0 +1,6 @@
+Sam: Hey @Jordan, did you get a chance to look at the Figma wireframes?
+Jordan: Just looked at them. The color contrast on the dashboard cards looks a bit off.
+Sam: Ah, good point. The dark mode theme needs lighter borders.
+Jordan: Can you update the design tokens for dark mode before the client meeting on Friday?
+Sam: Sure, I'll update the Figma file by Thursday night.
+Jordan: Awesome. Let's make sure we freeze changes after that so engineering can start building.

@@ -1,0 +1,6 @@
+Sam: Morning team! Quick sync before the client arrives.
+Alex: Morning. Did we get the budget approval for the cloud infrastructure?
+Sam: Not yet, finance is still reviewing the numbers.
+Alex: Jordan, can you follow up with Sarah from finance and get an update by the end of the day?
+Jordan: Will do, I'll ping her right now.
+Alex: Thanks. If we don't hear back, we'll loop in the director tomorrow morning.

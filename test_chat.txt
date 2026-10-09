@@ -1,0 +1,7 @@
+Alex: Hey team, we need to finalize the hackathon project today.
+Sam: I think we should do the chat summarizer. It fits the "What did I miss" theme perfectly.
+Jordan: Agreed. Are we doing it cloud or local?
+Alex: Local-first. Privacy is a huge selling point. Let's lock that in as our main feature.
+Sam: Cool. I will write the Python backend by 8 PM tonight.
+Jordan: And I'll design the Streamlit frontend. I need the UI mockups done by 3 PM tomorrow.
+Alex: Perfect, and I'll start working on the presentation deck.
